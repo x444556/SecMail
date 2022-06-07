@@ -1,8 +1,9 @@
 # SecMail
 
-**NOTE: This project is still at a very early stage and the server may not always be reachable. Due to bug fixes or changes to the protocols, messages or other user data may be lost.**
-
-**Your antivirus program may incorrectly mark the client as a virus. You can ignore this (depending on which antivirus you are using, you may have to manually allow the client before using it!).**
+***NOTE:***
+  - **This project is still at a very early stage and the server may not always be reachable. Due to bug fixes or changes to the protocols, messages or other user data may be lost.**
+  - **Your antivirus program may incorrectly mark the client as a virus. You can ignore this (depending on which antivirus you are using, you may have to manually allow the client before using it!).**
+  - **The source code may not be complete! Parts may be shortened or will only be published in the future.**
 
 The size of attachments is limited to 64 mib.
 
