@@ -5,6 +5,6 @@
   - **Your antivirus program may incorrectly mark the client as a virus. You can ignore this (depending on which antivirus you are using, you may have to manually allow the client before using it!).**
   - **The source code may not be complete! Parts may be shortened, outdated or will only be published in the future.**
 
-The size of attachments is limited to 64 mib.
+The size of attachments is limited to 32 mib.
 
 If you have any questions or problems, open an issue on Github or write a message to ":Support".
