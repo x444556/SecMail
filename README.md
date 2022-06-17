@@ -8,3 +8,5 @@
 The size of attachments is limited to 32 mib.
 
 If you have any questions or problems, open an issue on Github or write a message to ":Support".
+
+To save your contacts, you have to create a text file with the name "contacts.txt" (or only "contacts" if the file extensions are hidden) and enter one contact per line.
